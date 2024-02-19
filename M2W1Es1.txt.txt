@@ -1,0 +1,28 @@
+1) Che cos'è un algoritmo ?
+
+E' un insieme di istruzioni, l'ordine dei singoli passi che portano alla soluzione della richiesta.
+Per esempio conta fino a tre:
+1
+1+1=2
+2+1=3
+ho contato fino a tre !
+
+
+2)Che cos'è una variabile ?
+
+E'un contenitore, una cosa a cui si da un valore (numerico, stringa di testo, booleano ecc) grazie al quale
+è possibile eseguire i vari passi dell'algoritmo.
+Per esempio conta fino a tre:
+VariabileNumero=1
+VariabileNumero = VariabileNumero +1
+VariabileNumero= VariabileNumero+1
+VarianileNumero ha valore 3 !
+
+
+3)Undefined e Null sono la stessa cosa?
+
+Si ma hanno origini diverse. Se si crea una variabile senza specificare tipoloigia o contenuto allora sarà "Undefined".
+Se invece viene annullata nel corso di uno script (magari dopo un determinato evento) allora avrà valore "Null".
+
+
+
